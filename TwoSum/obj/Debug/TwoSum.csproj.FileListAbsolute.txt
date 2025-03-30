@@ -1,0 +1,14 @@
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\bin\Debug\TwoSum.exe.config
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\bin\Debug\TwoSum.exe
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\bin\Debug\TwoSum.pdb
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\obj\Debug\TwoSum.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\obj\Debug\TwoSum.exe
+C:\Users\OWNER\Documents\Lakehead University\Personal project\LeetCode\TwoSum\obj\Debug\TwoSum.pdb
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\bin\Debug\TwoSum.exe.config
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\bin\Debug\TwoSum.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\bin\Debug\TwoSum.pdb
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\obj\Debug\TwoSum.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\obj\Debug\TwoSum.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\TwoSum\obj\Debug\TwoSum.pdb

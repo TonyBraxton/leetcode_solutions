@@ -1,0 +1,7 @@
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\bin\Debug\palindrome.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\bin\Debug\palindrome.pdb
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\obj\Debug\palindrome.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\obj\Debug\palindrome.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\Palindrome\palindrome\obj\Debug\palindrome.pdb

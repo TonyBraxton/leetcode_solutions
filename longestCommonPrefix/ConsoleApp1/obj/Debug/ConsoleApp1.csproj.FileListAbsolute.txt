@@ -1,0 +1,7 @@
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\longestCommonPrefix\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

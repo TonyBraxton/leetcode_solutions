@@ -1,0 +1,7 @@
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\bin\Debug\ValidParantheses.exe.config
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\bin\Debug\ValidParantheses.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\bin\Debug\ValidParantheses.pdb
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\obj\Debug\ValidParantheses.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\obj\Debug\ValidParantheses.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\obj\Debug\ValidParantheses.exe
+C:\Users\OWNER\Documents\Lakehead University\LeetCode\easy\ValidParantheses\ValidParantheses\obj\Debug\ValidParantheses.pdb
