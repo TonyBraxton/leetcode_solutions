@@ -17,7 +17,7 @@ class Solution(object):
                     expected_index=nums.index(i)+1
         return expected_index
 #sample test case
-nums=[12,16,21]
+nums=[12,12,16,21]
 target=13
 sol=Solution()
 sol = sol.searchInsert(nums, target)
