@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c12405fa-089c-42fa-88f2-1da2cd146aef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/.vs/ValidParantheses/FileContentIndex/f30d80c7-b12d-47f1-95a6-d7465713fdb4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/.vs/ValidParantheses/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/.vs/ValidParantheses/v17/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/.vs/ValidParantheses/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/ValidParantheses.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/ValidParantheses.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/bin/Debug/ValidParantheses.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/bin/Debug/ValidParantheses.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/bin/Debug/ValidParantheses.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/ValidParantheses.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/ValidParantheses.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/ValidParantheses.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/ValidParantheses.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParantheses/ValidParantheses/obj/Debug/ValidParantheses.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python(pyCharm) solutions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicatesFromSortedArray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveElement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt(x).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToBinary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/convertSumToBinary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/findTheIndexOfTheFirstOccurenceInAString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLastWord.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mergeTwoSortedLists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plusOne.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchInsertPosition.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2w7QAqTL02KQ7qjPkxYtIYfs08q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c12405fa-089c-42fa-88f2-1da2cd146aef" name="Changes" comment="" />
+      <created>1745389993352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745389993352</updated>
+    </task>
+    <servers />
+  </component>
+</project>
